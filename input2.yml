@@ -1,0 +1,9 @@
+Employees: 
+- dan:
+    name: Dan D. Veloper
+    job: Developer
+    team: DevOps
+- dora:
+   name: Dora D. Veloper
+   job: Project Manager
+   team: Web Subscriptions

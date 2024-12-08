@@ -1,0 +1,13 @@
+consts:
+  PI: 3.1415
+  radius: 10
+
+circle:
+  name: "Circle"
+  calculation: ^[PI * radius * radius]
+  properties:
+    - color: "blue"
+    - calculation: ^[2 * PI / radius]
+      # hhghgf
+      # jjtj
+      # yyyyjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjtjtyjtyjbyjbytbjbyjytbjyb
